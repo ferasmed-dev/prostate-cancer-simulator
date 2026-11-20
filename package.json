@@ -1,0 +1,12 @@
+{
+  "name": "prostate-cancer-simulator",
+  "version": "1.0.0",
+  "description": "Interactive simulator of prostate cancer: early detection, MRI and biopsy, risk groups, localised treatment and advanced disease, with vs without treatment (ES/EN). Teaching tool.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "author": "Feras Elhissi"
+}
